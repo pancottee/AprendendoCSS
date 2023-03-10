@@ -1,14 +1,20 @@
 body {
-    background-color: lightblue;
+    background-color: rgb(135, 232, 227);
   }
   
   h1 {
-    color:darkcyan ;
-    text-align: center;
+    color: rgb(255, 255, 255);
   }
   
-  p {
-   color: darkcyan;
+  .center {
+        text-align: center;
+  }
+
+.fonte-verde {
+  color: rgb(26, 167, 47);
+}
+
+  #para {
    font-family: verdana;
    font-size:  20px;
   }
