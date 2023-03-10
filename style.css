@@ -1,20 +1,30 @@
-body {
-    background-color: rgb(135, 232, 227);
+body
+  background-color: blue(230,230,250,123);
+  
+  h2 {
+    color: rgb(37, 64, 99);
   }
   
-  h1 {
-    color: rgb(255, 255, 255);
-  }
-  
-  .center {
-        text-align: center;
+  body {
+    background-color: rgb(201, 235, 247);
   }
 
-.fonte-verde {
-  color: rgb(26, 167, 47);
+  p {
+    text-align: center;
+    }
+
+ h1 {
+  color: rgb(147, 183, 230);
+  background-color: lavander;
+  border: 2px solid rgb(234, 195, 252);
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+ }
+
+h2 {
+  color: rgb(168, 184, 202);
 }
-
-  #para {
-   font-family: verdana;
-   font-size:  20px;
-  }
+p{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 18px;
+}
