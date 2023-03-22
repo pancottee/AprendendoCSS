@@ -1,38 +1,24 @@
 body {
   /*background-color: blue(230,230,250,123);*/
   background-image: url("fundo.html");
+  font-family: 'Playfair Display', serif;
 }
-  
-  
-  h2 {
-    color: rgb(60, 87, 123);
-  }
-  
-  body {
-    background-color: rgb(201, 235, 247);
-  }
-
-  p {
-    text-align: center;
-    }
 
  h1 {
   color: rgb(147, 183, 230);
-  background-color: lavander;
   border: 2px solid rgb(255, 255, 255);
-  font-family: 'Times New Roman', Times, serif;
   text-align: center;
+  font-size: 40px; 
  }
 
-h2 {
-  color: rgb(168, 184, 202);
-}
-p{
-  font-family: 'Times New Roman', Times, serif;
-  font-size: 18px;
+
+p {
+  text-indent: 100px;
+  text-align: justify;
+  letter-spacing: 0,8px;
+  font-family: 'Playfair Display', serif;
   color: white;
 }
-
 
 .fonte-branca {
 color: white;
@@ -40,4 +26,16 @@ border: 5px solid read;
 border-radius: 20px;
 }
 
+.link{
+text-align: center;
+font-size: 30px;
+text-transform: capitalize;
+border-style: solid;
+border-color: white;
+}
 
+.link a {
+text-decoration: none;
+color:white;
+text-shadow:  2px 2px 5px rgb(255, 255, 255);
+}
